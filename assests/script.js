@@ -2,7 +2,7 @@ var startcontainer = document.querySelector('.startcontainer');
 var startbutton = document.querySelector('.startbutton');
 var questioncontainer = document.querySelector('.questioncontainer');
 var highscorecontainer = document.querySelector('.highscorecontainer');
-var questiontext =document.querySelector ('.questiontext');
+var questiontext = document.querySelector ('.questiontext');
 var time= 10; 
 
 questioncontainer.style.display='none';
