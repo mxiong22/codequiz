@@ -7,6 +7,7 @@
 N/a
 
 ## Useage 
-N/a
+Website Link 
+https://mxiong22.github.io/codequiz/
 
-
+<img width="1928" alt="2022-09-26 (5)" src="https://user-images.githubusercontent.com/107875628/192425963-24fd6228-fb46-4f6b-bd4f-da0133bb19f4.png">
