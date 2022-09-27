@@ -15,7 +15,7 @@ startcontainer.style.display='none';
 questioncontainer.style.display='block';
 controlTimer()
 
-questiontext.textContent="What is your name?"
+questiontext.textContent="Question #1"
 
 })
 
